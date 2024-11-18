@@ -1,3 +1,4 @@
 <html>
-  <?php echo "testing php";?>
+  <body><?php echo "testing php";?></body>
+  
 </html>
